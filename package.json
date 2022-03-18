@@ -1,6 +1,6 @@
 {
   "name": "gitflow",
-  "version": "0.0.0-development",
+  "version": "0.0.1-rc.2",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
@@ -11,12 +11,17 @@
     "react-scripts": "^2.1.3",
     "web-vitals": "^2.1.4"
   },
+  "devDependencies": {
+    "@commitlint/config-conventional": "^16.2.1",
+    "git-revision-webpack-plugin": "^5.0.0"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "semantic-release": "semantic-release"
+    "release:production": "npx standard-version",
+    "release:staging": "npx standard-version --prerelease rc --skip.changelog"
   },
   "eslintConfig": {
     "extends": [
@@ -39,8 +44,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/beharefe/gitflow.git"
-  },
-  "devDependencies": {
-    "semantic-release": "^19.0.2"
   }
 }
