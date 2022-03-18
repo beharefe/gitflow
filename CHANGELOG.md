@@ -2,6 +2,22 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/beharefe/gitflow/compare/v1.1.1...v2.0.0) (2022-03-18)
+
+
+### ⚠ BREAKING CHANGES
+
+* payments are different now
+
+### Features
+
+* refactor UI to version 2 ([85f80c8](https://github.com/beharefe/gitflow/commit/85f80c8057e09cda47e1f8345f1467da12b4b3bc))
+
+
+### Others
+
+* **release:** cut the v2.0.0-rc.0 release [skip ci] ([d680f17](https://github.com/beharefe/gitflow/commit/d680f171efe805fbb60722176ed8db6c3092f15c))
+
 ### [1.1.1](https://github.com/beharefe/gitflow/compare/v1.1.0...v1.1.1) (2022-03-18)
 
 
