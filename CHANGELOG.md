@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/beharefe/gitflow/compare/v1.1.0...v1.1.1) (2022-03-18)
+
+
+### Others
+
+* **release:** cut the v1.1.1-rc.0 release [skip ci] ([6e4fba0](https://github.com/beharefe/gitflow/commit/6e4fba03e045b08552d4b34fbcd9ff2cdf4c38b4))
+
 ## [1.1.0](https://github.com/beharefe/gitflow/compare/v1.0.0...v1.1.0) (2022-03-18)
 
 
