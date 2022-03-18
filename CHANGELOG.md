@@ -2,6 +2,24 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/beharefe/gitflow/compare/v1.0.0...v1.1.0) (2022-03-18)
+
+
+### Features
+
+* fill with dummy text ([d0a54b3](https://github.com/beharefe/gitflow/commit/d0a54b3bd0abd0e590815b2d2feae758efc90752))
+
+
+### Code Refactoring
+
+* add missing config file ([ba03644](https://github.com/beharefe/gitflow/commit/ba03644a5bf1ba937fc5a5f87c11ba2fba38cce4))
+
+
+### Others
+
+* **release:** cut the v1.1.0-rc.0 release [skip ci] ([8e6b150](https://github.com/beharefe/gitflow/commit/8e6b1504b198c9440e5ddaee706287232d9c54a7))
+* **release:** cut the v1.1.0-rc.1 release [skip ci] ([1bc40e4](https://github.com/beharefe/gitflow/commit/1bc40e4c44b4c93a3c6075776d12f85f2ba850c0))
+
 ## 1.0.0 (2022-03-18)
 
 
